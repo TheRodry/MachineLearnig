@@ -7,7 +7,7 @@ Created on Thu Apr 28 22:54:04 2022
 
 import numpy as np
 import pandas as pd
-from sklearn.linear_model import LogisticRegression #libreria del modelo
+from sklearn.linear_model import LogisticRegression 
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from warnings import simplefilter
